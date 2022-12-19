@@ -1,0 +1,60 @@
+# Backend
+autopep8               1.7.0
+certifi                2022.12.7
+cffi                   1.15.1
+charset-normalizer     2.1.1
+click                  8.1.3
+colorama               0.4.5
+distlib                0.3.6
+dnspython              2.2.1
+docx2pdf               0.1.8
+et-xmlfile             1.1.0
+filelock               3.8.2
+flake8                 5.0.4
+Flask                  2.1.2
+Flask-Cors             3.0.10
+Flask-PyMongo          2.3.0
+Flask-SQLAlchemy       2.5.1
+gevent                 21.12.0
+greenlet               1.1.2
+idna                   3.4
+itsdangerous           2.1.2
+Jinja2                 3.1.2
+jsonpickle             3.0.1
+lxml                   4.9.2
+MarkupSafe             2.1.1
+mccabe                 0.7.0
+mysql-connector-python 8.0.30
+mysqlclient            2.1.0
+numpy                  1.23.2
+openpyxl               3.0.10
+pandas                 1.4.3
+pip                    22.1.2
+platformdirs           2.6.0
+protobuf               3.20.1
+pycodestyle            2.9.1
+pycparser              2.21
+pyflakes               2.5.0
+pymongo                4.3.3
+PyMySQL                1.0.2
+pyodbc                 4.0.34
+python-dateutil        2.8.2
+python-docx            0.8.11
+pytz                   2022.2.1
+pywin32                305
+requests               2.28.1
+setuptools             58.1.0
+six                    1.16.0
+SQLAlchemy             1.4.37
+toml                   0.10.2
+tqdm                   4.64.1
+urllib3                1.26.13
+virtualenv             20.17.1
+Werkzeug               2.1.2
+zope.event             4.5.0
+zope.interface         5.4.0
+
+
+Para el backend utilice el framework de flask utilizando el patron MVC
+
+Para el Frontend utilice yarn vite , react router v6.5.0
